@@ -7,6 +7,7 @@
       <mapping pattern="e_new" type="PLAIN_TEXT" />
       <mapping pattern="笔记" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="keys_file_source" type="PLAIN_TEXT" />
       <mapping pattern="需求" type="PLAIN_TEXT" />
       <mapping pattern="e" type="PLAIN_TEXT" />
       <mapping ext="txt_new" type="PLAIN_TEXT" />
